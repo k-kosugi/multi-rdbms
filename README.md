@@ -47,6 +47,6 @@ $ ./mvnw spring-boot:run
 jdbc:teiid:customer.1@mm://<ip>:31000
 ```
 1. 以下のようなスキーマが見えること
-[](./image/1.png)
+  ![](./image/1.png)
 1. テーブルの中身は Customer(Postgresql) と Address(MySQL) の結合したもの
-[](./image/2.png)
+  ![](./image/2.png)
