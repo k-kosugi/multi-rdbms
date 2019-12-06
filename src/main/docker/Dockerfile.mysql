@@ -1,0 +1,8 @@
+FROM mysql:5.6
+
+EXPOSE 3306
+ENV MYSQL_ROOT_PASSWORD=redhat
+ENV MYSQL_USER=user
+ENV MYSQL_PASSWORD=mypassword
+ENV MYSQL_DATABASE=address
+COPY ./address.sql /docker-entrypoint-initdb.d/
