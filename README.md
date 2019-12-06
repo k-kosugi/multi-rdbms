@@ -3,6 +3,7 @@
 # MySQL と PostgreSQL の起動
 
 ## Docker を起動する方法
+以下のいずれかを使用して起動
 1. Docker イメージを作成して起動
 ```shell script
 $ cd ./src/docker
