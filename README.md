@@ -38,7 +38,7 @@ $ ./mvnw spring-boot:run
     - http://localhost:8080/odata/postgresql_schema/CUSTOMER
   - MySLQL から取り込んだスキーマ
     - http://localhost:8080/odata/mysql_schema/ADDRESS
-　- 上記二つを結合した新しい portfolio スキーマ
+  - 上記二つを結合した新しい portfolio スキーマ
     - http://localhost:8080/odata/portfolio/CustomerZip
     - http://localhost:8080/odata/portfolio/CustomerZip(10)
 

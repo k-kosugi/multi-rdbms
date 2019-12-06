@@ -76,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575593374757</updated>
-      <workItem from="1575593375973" duration="8874000" />
+      <workItem from="1575593375973" duration="8939000" />
     </task>
     <task id="LOCAL-00001" summary="first commit.">
       <created>1575603374067</created>
@@ -99,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575603600026</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="## -&gt; #">
+      <created>1575603737726</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575603737726</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,10 +119,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="## -&gt; #" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="243" y="123" key="CommitChangelistDialog2" timestamp="1575603599561">
+    <state x="243" y="123" key="CommitChangelistDialog2" timestamp="1575603737413">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="243" y="123" key="CommitChangelistDialog2/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1575603599561" />
+    <state x="243" y="123" key="CommitChangelistDialog2/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1575603737413" />
     <state width="1313" height="220" key="GridCell.Tab.0.bottom" timestamp="1575600610112">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -140,10 +147,10 @@
     <state width="1313" height="220" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1575595741912" />
     <state width="1638" height="220" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1575596393100" />
     <state width="1313" height="220" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1575600610111" />
-    <state x="394" y="261" key="Vcs.Push.Dialog.v2" timestamp="1575603608323">
+    <state x="394" y="261" key="Vcs.Push.Dialog.v2" timestamp="1575603744244">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="394" y="261" key="Vcs.Push.Dialog.v2/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1575603608323" />
+    <state x="394" y="261" key="Vcs.Push.Dialog.v2/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1575603744244" />
     <state x="343" y="117" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1575600866633">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
