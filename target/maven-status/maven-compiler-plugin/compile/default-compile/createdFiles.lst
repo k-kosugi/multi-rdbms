@@ -1,0 +1,3 @@
+com/redhat/teiid/examples/multirdbms/MySQLDataSource.class
+com/redhat/teiid/examples/multirdbms/PostgresqlDataSource.class
+com/redhat/teiid/examples/multirdbms/MultiRdbmsApplication.class

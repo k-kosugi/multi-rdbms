@@ -18,7 +18,7 @@ $ docker run -it -p 5432:5432 --rm kkosugiredhat/customer-db:v1
 $ docker run -it -p 3306:3306 --rm kkosugiredhat/address-db:v1
 ```
 
-## Teiid SpringBoot の起動
+# Teiid SpringBoot の起動
 1. Teiid SpringBoot のビルドと jar 
 ```shell script
 $ ./mvnw clean package
